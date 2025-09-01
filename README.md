@@ -912,15 +912,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🔗 Live Demo**: [https://credit-card-fraud-dibyendu.streamlit.app/](https://credit-card-fraud-dibyendu.streamlit.app/)
 
-**📧 Contact**: [dibyendu@example.com](mailto:dibyendu@example.com)
-
-**🐛 Report Bugs**: [GitHub Issues](https://github.com/dibyendu/credit-card-fraud-detection/issues)
-
-**💬 Discussion**: [GitHub Discussions](https://github.com/dibyendu/credit-card-fraud-detection/discussions)
+**📧 Contact**: [dibyendu@example.com](mailto:dibyendukarmahapatra@gmail.com)
 
 </div>
 
 ---
 
 *This project is for educational and demonstration purposes. Always consult with financial security experts before deploying in production environments.*
+
 
