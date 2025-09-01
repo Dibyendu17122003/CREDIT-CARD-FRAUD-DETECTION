@@ -304,16 +304,6 @@ def perform_eda(df):
 3. **PCA Components**: Components V4, V14, and V17 show significant differences between classes
 4. **Correlation Structure**: Certain features exhibit strong correlations with the target variable
 
-### 📉 Advanced Visualizations
-
-<div align="center">
-
-![Time Analysis](https://via.placeholder.com/800x400/4ECDC4/FFFFFF?text=Time+Series+Analysis+of+Fraud+Patterns)
-![Feature Importance](https://via.placeholder.com/800x400/45B7D1/FFFFFF?text=Feature+Importance+Analysis)
-![Cluster Analysis](https://via.placeholder.com/800x400/96CEB4/FFFFFF?text=Transaction+Cluster+Analysis)
-
-</div>
-
 ## ⚙️ Feature Engineering
 
 ### 🛠️ Created Features
@@ -912,12 +902,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🔗 Live Demo**: [https://credit-card-fraud-dibyendu.streamlit.app/](https://credit-card-fraud-dibyendu.streamlit.app/)
 
-**📧 Contact**: [dibyendu@example.com](mailto:dibyendukarmahapatra@gmail.com)
+**📧 Contact**: [my_mail](mailto:dibyendukarmahapatra@gmail.com)
 
 </div>
 
 ---
 
 *This project is for educational and demonstration purposes. Always consult with financial security experts before deploying in production environments.*
+
 
 
