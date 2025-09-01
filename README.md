@@ -686,18 +686,12 @@ credit-card-fraud-detection/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── model.pkl             # Trained model artifact
-├── scaler.pkl            # Feature scaler artifact
-├── train_model.py        # Model training script
-├── utils/                # Utility functions
-│   ├── data_loader.py    # Data loading utilities
-│   ├── preprocessing.py  # Data preprocessing
-│   └── visualization.py  # Plotting functions
-├── assets/               # Static assets
-│   ├── css/              # Custom stylesheets
-│   └── images/           # Application images
-└── tests/                # Test suite
-    ├── test_data.py      # Data validation tests
-    └── test_model.py     # Model performance tests
+├── nltk_data              # nltk congig
+├── .gitignore              # list of ignored files by git
+├── .gitattributes         
+├── LICENCE                  # project licence by mit
+├── README.md                # Detailed project Description
+├── credit-card-fraud-detection.ipynb  # for model creation & train and model evaluation
 ```
 
 ## 💻 Dashboard Features
@@ -929,3 +923,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project is for educational and demonstration purposes. Always consult with financial security experts before deploying in production environments.*
+
