@@ -144,6 +144,7 @@ ENV/
 env.bak/
 venv.bak/
 CCFD_ENV/
+XY/
 
 # Spyder project settings
 .spyderproject

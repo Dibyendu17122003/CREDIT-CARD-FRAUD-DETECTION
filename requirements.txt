@@ -9,3 +9,6 @@ joblib
 tensorflow
 keras
 ipython
+joblib 
+pickle
+plotly
